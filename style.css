@@ -1,0 +1,21 @@
+body
+{
+    background-image: linear-gradient(to bottom right,rgb(122, 253, 122),rgb(34, 204, 34),aqua,rgb(13, 198, 211),blue,rgb(3, 3, 145),purple,rgb(88, 1, 88))
+}
+
+.heading
+    {
+      width: 80%;
+      font-size: 22px;
+    }
+    #camera 
+    {
+      border: 2px dashed black;
+      width: 350px;
+      height: 300px; 
+    }
+p
+{
+    background-color: white;
+    width: 20%;
+}
